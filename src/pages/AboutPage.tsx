@@ -1,4 +1,3 @@
-
 import { motion } from 'framer-motion';
 import { Shield } from 'lucide-react';
 import Chatbot from '@/components/chatbot/Chatbot';
